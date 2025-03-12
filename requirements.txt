@@ -3,5 +3,5 @@ openai
 pandas
 PyPDF2
 pdfplumber
-langchain
+langchain==0.0.348 
 faiss-cpu
